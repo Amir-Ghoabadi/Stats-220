@@ -1,7 +1,7 @@
 ![my_meme](https://user-images.githubusercontent.com/101084953/158925824-6e70c322-30cb-4284-a3bf-1f9033c85a2a.png)
 
 
-library(magick)
+"library(magick)
 
 #image one
 in_person_learning <- image_read("https://www.teaching.unsw.edu.au/sites/default/files/styles/quicklink/public/quicklink/shutterstock_218235067.jpg.jpeg?itok=gSQvT9KF") %>%
@@ -44,5 +44,5 @@ meme <- c(first_row, second_row) %>%
   image_append(stack = TRUE) %>%
   image_scale
 (800)
-image_write(meme, "my_meme.png")
+image_write(meme, "my_meme.png")"
 
