@@ -1,3 +1,6 @@
+![my_meme](https://user-images.githubusercontent.com/101084953/158925824-6e70c322-30cb-4284-a3bf-1f9033c85a2a.png)
+
+
 library(magick)
 
 #image one
