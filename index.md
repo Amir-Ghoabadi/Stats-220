@@ -2,10 +2,17 @@
 # My Meme
 ![my_meme](https://user-images.githubusercontent.com/101084953/158925824-6e70c322-30cb-4284-a3bf-1f9033c85a2a.png)
 
-## The codes 
+## About The Meme
+I made a meme using R script in R studio about the struggles of online learning, it struggles and how daunting it may seem. 
+
+
+
+
+### The Codes 
 library(magick)
 
 #image one
+``` 
 in_person_learning <- image_read("https://www.teaching.unsw.edu.au/sites/default/files/styles/quicklink/public/quicklink/shutterstock_218235067.jpg.jpeg?itok=gSQvT9KF") %>%
   image_scale(600)
 
@@ -47,4 +54,4 @@ meme <- c(first_row, second_row) %>%
   image_scale
 (800)
 image_write(meme, "my_meme.png")
-
+``` 
