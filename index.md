@@ -9,10 +9,11 @@ I made a meme using R script in R studio about the struggles of online learning,
 
 
 ### The Codes 
+``` 
 library(magick)
 
 #image one
-``` 
+ 
 in_person_learning <- image_read("https://www.teaching.unsw.edu.au/sites/default/files/styles/quicklink/public/quicklink/shutterstock_218235067.jpg.jpeg?itok=gSQvT9KF") %>%
   image_scale(600)
 
