@@ -3,7 +3,7 @@
 ![my_meme](https://user-images.githubusercontent.com/101084953/158925824-6e70c322-30cb-4284-a3bf-1f9033c85a2a.png)
 
 ## About The Meme
-I made a meme using R script in R studio about the struggles of online learning, it struggles and how daunting it may seem. 
+I made a meme using ```R``` script in R studio about the struggles of online learning, it struggles and how daunting it may seem. 
 
 * This meme was made with a similar format to other memes with a some variations
 * The idea and message behind the meme was some what original and something that I havent seen before 
