@@ -5,8 +5,8 @@
 ## About The Meme
 I made a meme using ```R``` script in R studio about the struggles of online learning and how daunting it may seem and some points. 
 
-- This meme was made with a similar format to other memes with a some variations
-- The idea and message behind the meme was some what original and something that I havent seen before 
+- This meme was made with a similar format to other memes with a some variations.
+- The idea and message behind the meme was some what of an original and something that I have not seen before. 
 
 ### The Codes 
 ``` 
