@@ -14,5 +14,3 @@ This repo is made so that I can share the meme that I created using ```R``` scri
 1. View this page and watch this repository
 2. Follow me ([Amir-Ghoabadi](https://github.com/Amir-Ghoabadi/Stats-220))
 3. And Pin or ⭐ it if you liked it :-)
-
-Thanks for viewing my page.
