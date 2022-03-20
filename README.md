@@ -3,7 +3,7 @@
 https://amir-ghoabadi.github.io/Stats-220/ 
 
 
-This repo is made so that I can share the meme that I created using ```R``` script for Stats220 course with my tutors in the University of Auckland.
+This repo is made so that I can share the meme that I created using ```R``` script for Stats 220 course with my tutors in the University of Auckland.
 
 
 
